@@ -1,0 +1,12 @@
+1.Write the code for if-else statement.
+
+const max=100;
+let less=0;
+if (count<less)
+{
+console.log("False");
+}
+else
+{
+console.log("True");
+}
